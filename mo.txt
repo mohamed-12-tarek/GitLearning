@@ -1,2 +1,6 @@
 this file mota did it.
 i can modifiy any thing youn request from me
+
+css folder
+html folder 
+javaScript folder
